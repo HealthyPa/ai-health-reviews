@@ -14,3 +14,9 @@ https://boostaro.org/
 
 ## Tags
 male health, blood flow support, Boostaro, supplement reviews
+
+## Related Reviews
+
+- https://github.com/HealthyPa/ai-health-reviews/blob/main/alphaboosts-review.md
+- https://github.com/HealthyPa/ai-health-reviews/blob/main/lungzen-review.md
+- https://github.com/HealthyPa/ai-health-reviews/blob/main/trimx-review.md
